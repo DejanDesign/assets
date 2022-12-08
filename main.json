@@ -3,30 +3,30 @@
 "id": 1,
 "name": "Dejan",
  "surname": "Djukic",
- "nickaName": "Djule"
+ "nickName": "Djule"
 },
 {
 "id": 2,
 "name": "Milos",
  "surname": "Markovic",
- "nickaName": "Marker"
+ "nickName": "Marker"
 },
 {
 "id": 3,
 "name": "Petar",
  "surname": "Adamov",
- "nickaName": "Pepper"
+ "nickName": "Pepper"
 },
   {
 "id": 4,
 "name": "Branko",
  "surname": "Panin",
- "nickaName": "Paki"
+ "nickName": "Paki"
 },
   {
 "id": 5,
 "name": "Petko",
  "surname": "Ristic",
- "nickaName": "Rista"
+ "nickName": "Rista"
 }
 ]
